@@ -7,4 +7,4 @@ The sub-topics will be arranged in several folders of segments for easy navigati
 
 This repo may contain some errors. Therefore don't hesistate to raise and issue or create a pull request. 
 
-Thank and make use of these notes
+Thank you and make use of these notes
