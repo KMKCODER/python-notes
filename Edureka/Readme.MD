@@ -7,3 +7,5 @@ The sub-topics will be arranged in several folders of segments for easy navigati
 Therefore, don't hesistate to raise an issue or create a pull request.
 
 Thank you and make use of these notes.
+
+Compiled by [Kapembwa Kangali](https://github.com/KMKCODER)
