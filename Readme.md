@@ -9,6 +9,6 @@ This repo is a collection of the notes I made from various python tutorial / cou
 - If you want to add your own notes, fork the repo to your account then clone it to you local machine. Make the changes on your local machine and then push them to your remote and finally create a PR following the convetional **GitHub Commit Messages**
 
 ### Folders in the Repo
-* [Edureka](Edureka/Edureka-Readme.MD)
+* [Edureka](Edureka/)
 
 Thank you and make use of these notes.
