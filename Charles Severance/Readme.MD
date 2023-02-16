@@ -3,4 +3,4 @@
 ## By Charles Severance 
 
 ### Introduction
-These notes are from a Python full course by Charles Severance.
+These notes are from a Python full course by Charles Severance on Free Code Camp.
