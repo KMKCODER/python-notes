@@ -1,5 +1,4 @@
-
-# FREE CODE CAMP PYTHON FULL COURSE.
+# PYTHON FOR EVERYBODY - PYTHON FULL COURSE.
 ## By Charles Severance 
 
 ### Introduction
