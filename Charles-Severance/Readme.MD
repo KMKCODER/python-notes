@@ -5,4 +5,4 @@
 These notes are from a Python full course by Charles Severance on Free Code Camp.
 
 ### Contents
-* [Chapter 1](Charles-Severance/Chapter 1/)
+* [Chapter 1](Charles-Severance/Chapter-1/)
