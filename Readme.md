@@ -10,6 +10,6 @@ This repo is a collection of the notes I made from various python tutorial / cou
 
 ### Folders in the Repo
 * [Edureka](Edureka/)
-* [Charles Severance Free Code Camp](Charles-Severance/)
+* [Charles Severance (Free Code Camp)](Charles-Severance/)
 
 Thank you and make use of these notes.
