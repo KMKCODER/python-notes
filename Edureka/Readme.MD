@@ -9,7 +9,7 @@ Therefore, don't hesistate to raise an issue or create a pull request.
 Thank you and make use of these notes.
 
 ## MENU
-### [Introduction]()
+### [Introduction](python-notes/Edureka/1. Introduction.md)
 ### 
 
 Compiled by [Kapembwa Kangali](https://github.com/KMKCODER)
