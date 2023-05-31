@@ -12,4 +12,4 @@ This repo is a collection of the notes I made from various python tutorial / cou
 * [Edureka](Edureka/)
 * [Charles Severance (Free Code Camp)](Charles-Severance/)
 
-Thank you and make use of these notes.
+Thank you and feel free to make use of these notes.
