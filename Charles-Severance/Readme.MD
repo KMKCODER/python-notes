@@ -1,7 +1,7 @@
 # PYTHON FOR EVERYBODY - PYTHON FULL COURSE.
 ## By Charles Severance 
 
-### Introduction
+### Introduction.
 These notes are from a Python full course by Charles Severance on Free Code Camp.
 
 ### Contents
