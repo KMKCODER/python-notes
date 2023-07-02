@@ -1,4 +1,4 @@
-# PYTHON NOTES BY KMKCODER
+# PYTHON NOTES
 
 ## Introduction
 
