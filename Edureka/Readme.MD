@@ -1,6 +1,6 @@
-# PYTHON FULL COURSE BY EDUREKA FOR BEGINNERS
+# PYTHON FULL COURSE BY EDUREKA FOR BEGINNERS.
 
-## Introduction
+## Introduction.
 
 This repo is a collection of the notes I took from an Edureka 12-hour tutorial on Python for beginners' entire course. 
 The sub-topics will be arranged in several folders of segments for easy navigation and reference. This repo may contain some errors. 
