@@ -12,5 +12,5 @@ This repo is a collection of my notes from various Python tutorials/courses. The
 * [Edureka](Edureka/)
 * [Charles Severance (Free Code Camp)](Charles-Severance/)
 
-Thank you and feel free to make use of these notes.
-### KMKCODER
+Thank you, and feel free to make use of these notes.
+### KMKCODER 2023
